@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/fastapi.svg" alt="html5" width="40" height="40" style="max-width:100%;">
+[![FastAPI](https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/fastapi.svg =40x40)](https://fastapi.tiangolo.com)
 <img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-icon.svg" alt="html5" width="40" height="40" style="max-width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-pip-logo.svg" alt="html5" width="40" height="40" style="max-width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/blender.svg" alt="html5" width="40" height="40" style="max-width:100%;">
@@ -31,7 +31,6 @@
   <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="40" width="40">
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="" height="40" width="40">
 </p>
-
 
 [![Anurag's GitHub stats](https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
 
