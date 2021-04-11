@@ -13,7 +13,7 @@
 
 
 <p align="center">
-[![FastAPI](https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/fastapi.svg =40x40)](https://fastapi.tiangolo.com)
+<img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/fastapi.svg" alt="html5" width="40" height="40" style="max-width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-icon.svg" alt="html5" width="40" height="40" style="max-width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-pip-logo.svg" alt="html5" width="40" height="40" style="max-width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/blender.svg" alt="html5" width="40" height="40" style="max-width:100%;">
