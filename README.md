@@ -2,10 +2,6 @@
 
 <h1 align="center"> Sup :wave: </h1>
 
-<p align="center">
-  <img src="https://github.com/Hipoacusia/Hipoacusia/blob/main/bannergit.png?raw=true"/>
-</p>
-
 <h2> About Me </h2>
 
 <p align="center">
