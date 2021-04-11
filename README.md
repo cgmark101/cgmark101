@@ -30,16 +30,23 @@
       height="40" style="max-width:100%;" target="_blank"></a>
   <a href="https://deta.sh"><img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/deta.svg"
       alt="html5" width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://html.spec.whatwg.org/"><img
+      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/html5-original-wordmark.svg" alt="html5"
+      width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://www.w3.org/Style/CSS/"><img
+      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/css3-original-wordmark.svg" alt="html5"
+      width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://www.javascript.com/"><img
+      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/javascript-original.svg" alt="html5" width="40"
+      height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://expressjs.com/"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="html5"
+      width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://nodejs.org/"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="html5"
+      width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://www.npmjs.com/"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="html5"
+      width="40" height="40" style="max-width:100%;" target="_blank"></a>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5" width="40" height="40" style="max-width:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-    width="40" height="40" style="max-width:100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" style="max-width:100%;">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="40" width="40">
+
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40" width="40">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="40" width="40">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40" width="40">
