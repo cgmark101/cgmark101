@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/fastapi.svg" alt="html5" width="40" height="40" style="max-width:100%;">
+<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/fastapi.svg" alt="html5" width="40" height="40" style="max-width:100%;"></a>
 <img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-icon.svg" alt="html5" width="40" height="40" style="max-width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-pip-logo.svg" alt="html5" width="40" height="40" style="max-width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/blender.svg" alt="html5" width="40" height="40" style="max-width:100%;">
