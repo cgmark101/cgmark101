@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-phi.vercel.app/top-langs/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
