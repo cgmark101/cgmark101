@@ -57,6 +57,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="" height="40" width="40">
 </p>
 
-![Anurag's GitHub stats](https://vercel.com/cgmark101/github-readme-stats/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-master-cgmark101.vercel.app/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
 
-![Top Langs](https://vercel.com/cgmark101/github-readme-stats/6WyCN4tULf1boqosd5SZHDrgpaUu/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-master-cgmark101.vercel.app//api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
