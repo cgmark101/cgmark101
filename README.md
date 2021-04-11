@@ -14,50 +14,56 @@
 
 
 <p align="center">
-  <a href="https://fastapi.tiangolo.com/"><img
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/fastapi.svg" alt="html5" width="40" height="40"
-      style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.python.org/"><img
+      style="max-width:100%;"></a>
+  <a href="https://www.python.org/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-icon.svg" alt="html5" width="40"
-      height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://github.com/pypa/pip"><img
+      height="40" style="max-width:100%;"></a>
+  <a href="https://github.com/pypa/pip" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-pip-logo.svg" alt="html5" width="40"
-      height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://blender.org"><img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/blender.svg"
-      alt="html5" width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.djangoproject.com/"><img
+      height="40" style="max-width:100%;"></a>
+  <a href="https://blender.org" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/blender.svg" alt="html5" width="40" height="40"
+      style="max-width:100%;"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/djangoproject-icon.svg" alt="html5" width="40"
-      height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://deta.sh"><img src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/deta.svg"
-      alt="html5" width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://html.spec.whatwg.org/"><img
+      height="40" style="max-width:100%;"></a>
+  <a href="https://deta.sh" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/deta.svg" alt="html5" width="40" height="40"
+      style="max-width:100%;"></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/html5-original-wordmark.svg" alt="html5"
-      width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.w3.org/Style/CSS/"><img
+      width="40" height="40" style="max-width:100%;"></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/css3-original-wordmark.svg" alt="html5"
-      width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.javascript.com/"><img
+      width="40" height="40" style="max-width:100%;"></a>
+  <a href="https://www.javascript.com/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/javascript-original.svg" alt="html5" width="40"
-      height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://expressjs.com/"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="html5"
-      width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://nodejs.org/"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="html5"
-      width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.npmjs.com/"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="html5"
-      width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="html5"
-      width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
-      alt="html5" width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="html5"
-      width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.json.org/json-en.html"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg"
-      alt="html5" width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://www.nginx.com/"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="html5"
-      width="40" height="40" style="max-width:100%;" target="_blank"></a>
-  <a href="https://ubuntu.com/"><img
-      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/ubuntu-icon.svg" alt="html5"
-      width="40" height="40" style="max-width:100%;" target="_blank"></a>
+      height="40" style="max-width:100%;"></a>
+  <a href="https://expressjs.com/" target="_blank"><img
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="html5" width="40" height="40"
+      style="max-width:100%;"></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
+      alt="html5" width="40" height="40" style="max-width:100%;"></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
+      alt="html5" width="40" height="40" style="max-width:100%;"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
+      alt="html5" width="40" height="40" style="max-width:100%;"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img
+      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="html5" width="40" height="40"
+      style="max-width:100%;"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="html5" width="40" height="40"
+      style="max-width:100%;"></a>
+  <a href="https://www.json.org/json-en.html" target="_blank"><img
+      src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="html5" width="40" height="40"
+      style="max-width:100%;"></a>
+  <a href="https://www.nginx.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"
+      alt="html5" width="40" height="40" style="max-width:100%;"></a>
+  <a href="https://ubuntu.com/" target="_blank"><img
+      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/ubuntu-icon.svg" alt="html5" width="40"
+      height="40" style="max-width:100%;"></a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
