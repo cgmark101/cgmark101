@@ -32,7 +32,6 @@
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="" height="40" width="40">
 </p>
 
-[![FastAPI](https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/fastapi.svg)](https://fastapi.tiangolo.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
 
