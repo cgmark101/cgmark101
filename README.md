@@ -45,18 +45,22 @@
       width="40" height="40" style="max-width:100%;" target="_blank"></a>
   <a href="https://www.npmjs.com/"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="html5"
       width="40" height="40" style="max-width:100%;" target="_blank"></a>
-
-
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="40" width="40">
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="" height="40" width="40">
+  <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="html5"
+      width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
+      alt="html5" width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="html5"
+      width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://www.json.org/json-en.html"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg"
+      alt="html5" width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://www.nginx.com/"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="html5"
+      width="40" height="40" style="max-width:100%;" target="_blank"></a>
+  <a href="https://ubuntu.com/"><img
+      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/ubuntu-icon.svg" alt="html5"
+      width="40" height="40" style="max-width:100%;" target="_blank"></a>
 </p>
 
-[![Anurag's GitHub
-stats](https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
 
 
-[![Top
-Langs](https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
