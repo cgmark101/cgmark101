@@ -5,8 +5,8 @@
 <h2> About Me </h2>
 
 <p align="center">
-  Hi, I'm a back-end web developer. I am a Industrial electrician but i like to make 2D/3D stuff and also code, i'm
-  currently learning Front-end technologies
+  Hi, I am a Industrial electrician but i like to make 2D/3D stuff and also code, i'm
+  currently learning Front-end technologies, and know a thing or two in the server side.
 </p>
 
 <h3>Gear:</h3>
