@@ -68,6 +68,8 @@
 
 <p align="center">
 <img src="https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical"/>
+</p>
 
+<p align="center">
 <img src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=cgmark101&show_icons=true&theme=radical"/>
 </p>
