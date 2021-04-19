@@ -5,8 +5,8 @@
 <h2> About Me </h2>
 
 <p align="center">
-  Hi, I'm a back-end web developer. I am a Industrial electrician but i like to make 2D/3D stuff and also code, i'm
-  currently learning Front-end technologies
+  Hi, I am a Industrial electrician but i like to make 2D/3D stuff and also code, i'm
+  currently learning Front-end technologies, and know a thing or two in the server side.
 </p>
 
 <h3>Gear:</h3>
@@ -70,3 +70,7 @@
 
 <img align="center" src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=cgmark101&show_icons=true&theme=radical"/>
 
+<<<<<<< HEAD
+=======
+[![Top Langs](https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
+>>>>>>> cc2fe591faf48b7fb469e2ebd3d6ecd1d651264d
