@@ -11,7 +11,7 @@
 
 <p align="center">
 <img
-      src="https://cdn.jsdelivr.net/gh/cgmark101/blog@main/static/img/akane.logo.svg" alt="html5" width="60" height="60"
+      src="https://cdn.jsdelivr.net/gh/cgmark101/blog@main/static/img/akane.logo.svg" alt="html5" width="100" height="100"
       style="max-width:100%;">
 </p>
 
