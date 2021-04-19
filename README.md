@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-<img
+<a href="https://akane.ga" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/blog@main/static/img/akane.logo.svg" alt="html5" width="100" height="100"
-      style="max-width:100%;">
+      style="max-width:100%;"></a>
 </p>
 
 <h3>Gear:</h3>
