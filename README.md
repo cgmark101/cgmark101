@@ -9,9 +9,13 @@
   currently learning Front-end technologies, and know a thing or two in the server side.
 </p>
 
+<p align="center">
+<img
+      src="https://cdn.jsdelivr.net/gh/cgmark101/blog@main/static/img/akane.logo.svg" alt="html5" width="60" height="60"
+      style="max-width:100%;">
+</p>
+
 <h3>Gear:</h3>
-
-
 
 <p align="center">
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img
