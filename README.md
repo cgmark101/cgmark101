@@ -26,6 +26,9 @@
   <a href="https://blender.org" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/blender.svg" alt="html5" width="40" height="40"
       style="max-width:100%;"></a>
+  <a href="https://flask.palletsprojects.com/en/master/" target="_blank"><img
+      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="html5" width="40"
+      height="40" style="max-width:100%;"></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/djangoproject-icon.svg" alt="html5" width="40"
       height="40" style="max-width:100%;"></a>
@@ -55,9 +58,6 @@
       style="max-width:100%;"></a>
   <a href="https://www.mongodb.com/" target="_blank"><img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="html5" width="40" height="40"
-      style="max-width:100%;"></a>
-  <a href="https://www.json.org/json-en.html" target="_blank"><img
-      src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="html5" width="40" height="40"
       style="max-width:100%;"></a>
   <a href="https://www.nginx.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"
       alt="html5" width="40" height="40" style="max-width:100%;"></a>
