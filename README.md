@@ -66,7 +66,7 @@
       height="40" style="max-width:100%;"></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
+<img align="center" src="https://github-readme-stats-six-phi.vercel.app/api?username=cgmark101&show_icons=true&theme=radical"/>
 
+<img align="center" src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=cgmark101&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
