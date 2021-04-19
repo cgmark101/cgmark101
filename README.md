@@ -70,7 +70,4 @@
 
 <img align="center" src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=cgmark101&show_icons=true&theme=radical"/>
 
-<<<<<<< HEAD
-=======
 [![Top Langs](https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=cgmark101&show_icons=true&theme=radical)](https://github.com/cgmark101/github-readme-stats)
->>>>>>> cc2fe591faf48b7fb469e2ebd3d6ecd1d651264d
