@@ -21,12 +21,6 @@
   <a href="https://www.python.org/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-icon.svg" alt="html5" width="40"
       height="40" style="max-width:100%;"></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img
-      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/fastapi.svg" alt="html5" width="40" height="40"
-      style="max-width:100%;"></a>
-  <a href="https://flask.palletsprojects.com/en/master/" target="_blank"><img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="html5" width="40"
-      height="40" style="max-width:100%;"></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/djangoproject-icon.svg" alt="html5" width="40"
       height="40" style="max-width:100%;"></a>
@@ -39,13 +33,6 @@
   <a href="https://www.javascript.com/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/javascript-original.svg" alt="html5" width="40"
       height="40" style="max-width:100%;"></a>
-  <a href="https://expressjs.com/" target="_blank"><img
-      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="html5" width="40" height="40"
-      style="max-width:100%;"></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-      alt="html5" width="40" height="40" style="max-width:100%;"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
-      alt="html5" width="40" height="40" style="max-width:100%;"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img
       src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="html5" width="40" height="40"
       style="max-width:100%;"></a>
