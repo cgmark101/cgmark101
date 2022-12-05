@@ -21,9 +21,6 @@
   <a href="https://www.python.org/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/python-icon.svg" alt="html5" width="40"
       height="40" style="max-width:100%;"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img
-      src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/djangoproject-icon.svg" alt="html5" width="40"
-      height="40" style="max-width:100%;"></a>
   <a href="https://html.spec.whatwg.org/" target="_blank"><img
       src="https://cdn.jsdelivr.net/gh/cgmark101/CDN-stuff@main/dist/img/html5-original-wordmark.svg" alt="html5"
       width="40" height="40" style="max-width:100%;"></a>
