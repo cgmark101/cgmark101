@@ -5,8 +5,7 @@
 <h2> About Me </h2>
 
 <p align="center">
-  Hi, I am a Industrial electrician but i like to make 2D/3D designs, do stuff on servers, networks and also code, i'm
-  currently working as a "DevOps" at a national university.
+I am a professional with experience in web development, using Python and Django. Certificate in software development and IT infrastructure. Specialized in programming, network and systems administration.
 </p>
 
 <p align="center">
