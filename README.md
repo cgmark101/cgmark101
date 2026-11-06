@@ -30,4 +30,4 @@ Soy profesional con experiencia transversal en desarrollo de software e infraest
 
 ## Contacto
 - GitHub: https://github.com/cgmark101
-- Email: (tu-email@ejemplo.com)
+- Email: (cgmark101@gmail.com)
