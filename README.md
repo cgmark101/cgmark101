@@ -1,33 +1,61 @@
-# Hola — Encantado de verte
+# Marcos A. Yeguez ⚡
 
 <p align="center">
   <a href="https://github.com/cgmark101"><img src="https://github.com/cgmark101.png" alt="avatar" width="120" style="border-radius:50%"></a>
 </p>
 
-## Sobre mí
-Soy profesional con experiencia transversal en desarrollo de software e infraestructura. Trabajo en la intersección entre aplicaciones, servidores y redes, aportando soluciones que funcionan en producción y que son sostenibles en el tiempo. Me interesa resolver problemas complejos, integrar tecnologías distintas y ayudar a los equipos a entregar valor de forma constante.
+<p align="center">
+  <b>Líder Técnico en Infraestructura, Redes y Arquitectura Backend | Mission-Critical Systems</b><br>
+  <i>Operación de alta tensión • Virtualización & Redes seguras • Software tolerante a fallos</i>
+</p>
 
-## Áreas de experiencia (resumen)
-- Desarrollo de aplicaciones y APIs
-- Administración de servidores y operaciones
-- Bases de datos: diseño y mantenimiento tanto SQL como NoSQL
-- Automatización de flujos y orquestación
-- Recuperación e integración de sistemas legados
-- Integración de agentes de IA en entornos productivos
+---
+
+## Sobre mí
+Especialista técnico con más de 15 años de experiencia resolviendo fallas complejas y construyendo soluciones de alta disponibilidad. Trabajo en la intersección directa entre el hardware de potencia, las redes de misión crítica y las arquitecturas de software modernas. Mi enfoque es la resiliencia operativa: sistemas desacoplados, código auditable, perímetros Zero Trust y administración integral de servidores en producción.
+
+- 🌐 **SaaS en Producción:** Creador, desarrollador full stack y administrador del VPS de [CrossFusion](https://crossfusion.es).
+- 🏛️ **Infraestructura de Redes:** Diseño y documentación de campus bajo norma ANSI/TIA-606-D (NetBox IPAM/DCIM), clústeres Proxmox VE, VLANs y MikroTik RouterOS.
+- ⚡ **Entornos de Misión Crítica:** Criterio operativo en subestaciones eléctricas de transmisión (115/13.8 kV) bajo régimen 24/7 sin margen de error.
+- 📍 **Ubicación:** Puerto Ordaz, Venezuela | Disponible para proyectos remotos.
+
+---
+
+## Áreas de Dominio Técnico
+
+### 1. Backend & Arquitectura de Software
+- **Lenguajes & Frameworks:** Python (Django, FastAPI), TypeScript/JavaScript (React, Tailwind CSS), Bash scripting.
+- **Persistencia & Datos:** PostgreSQL, SQLite, PocketBase; diseño relacional, integridad referencial y optimización de consultas.
+- **Modernización Legacy:** Extracción automatizada de lógica de negocio y consultas SQL puras mediante parseo de árboles sintácticos (AST) sobre bases de código masivas (400k+ LOC).
+- **Seguridad & APIs:** APIs RESTful, arquitecturas asíncronas (Celery), estándares OAuth2 y mitigación DPoP.
+
+### 2. Infraestructura, Servidores & Redes
+- **Virtualización & Sistemas:** Proxmox VE (LXC/VMs), endurecimiento (*hardening*) y mantenimiento continuo de servidores Linux (Debian/Ubuntu Server).
+- **Enrutamiento & Redes:** MikroTik RouterOS (balanceo, marcado de tráfico, VLANs 802.1Q), OpenWrt, NetBox.
+- **Perímetros Seguros:** Cloudflare Zero Trust Tunnels, Tailscale / WireGuard, Nginx Proxy Manager y automatización de certificados SSL/TLS.
+
+### 3. Sistemas Embebidos, Telemetría & Entornos Industriales
+- **Hardware & Instrumentación:** Redes CAN bus, telemetría automotriz en tiempo real y calibración de ECUs standalone (Formula SAE).
+- **Sistemas de Potencia:** Maniobras de patio en alta tensión, diagnóstico de protecciones eléctricas y telemetría de campo.
+
+---
+
+## Proyectos Destacados
+
+- **[CrossFusion](https://crossfusion.es):** Plataforma web SaaS integral orientada a la gestión deportiva y membresías. Construcción completa de UI desacoplada (React), arquitectura de datos backend y gestión integral del servidor VPS en producción (seguridad perimetral, respaldos y soporte 24/7).
+- **CAMUS:** Arquitectura backend modular para reemplazo de plataformas institucionales legadas, desacoplando datos mediante parseo AST e implementando autenticación federada.
+- **Electrónica & Telemetría FSAE UNEXPO:** Diseño de arnés de competición, aislamiento electromagnético e integración de adquisición de datos CAN bus para monoplaza con motor Suzuki GSX-R600.
+
+---
 
 ## Cómo trabajo
-- Prioridad en la fiabilidad y la repetibilidad: automatizo despliegues y tareas operativas siempre que es posible.
-- Documentación y tests mínimos necesarios para facilitar mantenimiento.
-- Enfoque colaborativo: comunico decisiones técnicas para que el equipo entienda riesgos y trade-offs.
-- Itero con entregas pequeñas y verificables para reducir riesgos.
+- **Cero puntos únicos de fallo:** Arquitecturas desacopladas con respaldos automáticos y monitoreo activo.
+- **Inmutabilidad y trazabilidad:** Registros forenses (Append-Only) y auditoría estricta para eventos operacionales.
+- **Entrega verificable:** Despliegues continuos, configuraciones declarativas y documentación técnica precisa.
 
-## Detalles técnicos (resumen)
-- Bases de datos: SQL y NoSQL (diseño, optimización, migraciones)
-- Automatización: n8n y scripting personalizado
-- Integración legada: experiencia con ODBC antiguo, puentes TCP/REST y entornos Windows/32-bit cuando es necesario
-- Lenguajes/stack: integración y scripting con Python, APIs REST
-- IA: despliegue e integración de agentes en servidores y redes (orquestación, seguridad y monitorización)
+---
 
 ## Contacto
-- GitHub: https://github.com/cgmark101
-- Email: (cgmark101@gmail.com)
+- **Web:** [yeguez.com](https://yeguez.com)
+- **GitHub:** [@cgmark101](https://github.com/cgmark101)
+- **Correo Electrónico:** [cgmark101@gmail.com](mailto:cgmark101@gmail.com)
