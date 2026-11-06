@@ -19,8 +19,8 @@ Especialista técnico con más de 15 años de experiencia resolviendo fallas com
 - ⚡ **Entornos de Misión Crítica:** Criterio operativo en subestaciones eléctricas de transmisión (115/13.8 kV) bajo régimen 24/7 sin margen de error.
 - 📍 **Ubicación:** Puerto Ordaz, Venezuela.
 
----
 
+---
 ## Áreas de Dominio Técnico
 
 ### 1. Backend & Arquitectura de Software
@@ -33,8 +33,8 @@ Especialista técnico con más de 15 años de experiencia resolviendo fallas com
 - **Virtualización & Sistemas:** Proxmox VE (LXC/VMs), endurecimiento (*hardening*) y mantenimiento continuo de servidores Linux (Debian/Ubuntu Server).
 - **Enrutamiento & Redes:** MikroTik RouterOS (balanceo, marcado de tráfico, VLANs 802.1Q), OpenWrt, NetBox.
 - **Perímetros Seguros:** Cloudflare Zero Trust Tunnels, Tailscale / WireGuard, Nginx Proxy Manager y automatización de certificados SSL/TLS.
----
 
+---
 ## Cómo trabajo
 - **Cero puntos únicos de fallo:** Arquitecturas desacopladas con respaldos automáticos y monitoreo activo.
 - **Inmutabilidad y trazabilidad:** Registros forenses (Append-Only) y auditoría estricta para eventos operacionales.
